@@ -1,0 +1,16 @@
+{
+  "name": "cypress-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress": "cypress"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/browserify-preprocessor": "^1.0.2",
+    "cypress": "^2.1.0"
+  }
+}
